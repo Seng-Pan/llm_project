@@ -50,16 +50,7 @@ python loan_assistant.py
 - Business details (type, age, income)
 - Loan requirements (amount, purpose)
 - Financial situation (existing loans, guarantees)
-2. Scoring:
-  ```json
-  {
-  "overall_score": 7.5,
-  "field_scores": [
-    {"field": "income", "score": 8, "reason": "Stable income stream"},
-    {"field": "business_age", "score": 5, "reason": "New venture"}
-  ]
-}```
-
+2. Scoring: overall score & field scores
 3. Advice Generation (for scores ≤5):
 - "Build 3-6 months of transaction history"
 - "Consider smaller initial loan amount"

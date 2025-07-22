@@ -59,9 +59,10 @@ python loan_assistant.py
     {"field": "business_age", "score": 5, "reason": "New venture"}
   ]
 }```
+
 3. Advice Generation (for scores ≤5):
-"Build 3-6 months of transaction history"
-"Consider smaller initial loan amount"
+- "Build 3-6 months of transaction history"
+- "Consider smaller initial loan amount"
 
 ## Important Notes
 1. Requires GPT-4o API access

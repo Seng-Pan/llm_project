@@ -59,7 +59,3 @@ python loan_assistant.py
 1. Requires GPT-4o API access
 2. Test with mock data before production use
 3. Modify COLLECTION_TEMPLATE for localization
-
-License
-MIT © Seng Pan
-Not financial advice - for demonstration purposes only
